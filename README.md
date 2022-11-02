@@ -3,4 +3,7 @@ This repository representes the development of an algorithm, called the Deep pre
 
 Main file: main_notebook.ipynb contains the Jyoyter notebook file explaining the use of this code, and provide the step-by-step instruction on how to use the develped algorithm for precipitation retrieval.
 
+## Dataset
+The dataset fro training the networks and retriving sample orbits is available here. 
+
 
